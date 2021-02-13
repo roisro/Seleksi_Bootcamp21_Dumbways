@@ -9,10 +9,10 @@ Database yg saya gunakan yaitu mysql dengan bahasa pemrograman php untuk CRUD da
 
 Sofware yang digunakan :
 
-Google Chrome
-VS_Code
-Cara menjalankan aplikasi.
+Google Chrome dan VS_Code.
 
+
+Cara menjalankan aplikasi :
 Silahkan download repo saya
 Hidupkan XAMPP anda, kemudian Import databasenya (arrticle.sql)
 Setelah database berhasil di import, maka aplikasi bisa langsung dijalankan
