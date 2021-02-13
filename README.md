@@ -1,4 +1,4 @@
-# Seleksi_Bootcamp21_Dumbways
+# Seleksi_Bootcamp2021_Dumbways
 
 Project ini merupakan project seleksi bootcamp Dumbways
 
